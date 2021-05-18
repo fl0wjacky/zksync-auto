@@ -38,7 +38,7 @@ db status:
 - 1	funds without actived
 - 2	actived with extra eth
 - 3	already transfer extra eth to main wallet
-- 4	airdrop already transfer to main wallet
+- 4	airdrop token already transfer to main wallet
 - 5	already transfer all eth to main wallet
 
 # .env sample
